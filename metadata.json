@@ -1,0 +1,6 @@
+{
+  "name": "Elite Packages - Flexible Packaging Manufacturer",
+  "description": "Portfolio and quote portal for Elite Packages, a rotogravure and 7-color flexographic flexible packaging converter based in Lahore, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
